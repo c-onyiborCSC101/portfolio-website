@@ -5,7 +5,7 @@
 **Course:** Web Development / AI Engineering  
 
 ## Live URL
-*Will be added after Vercel deployment*
+https://portfolio-website-2026-nine.vercel.app/#projects
 
 ## GitHub Repository
 https://github.com/c-onyiborCSC101/portfolio-website
