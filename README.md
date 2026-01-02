@@ -20,4 +20,3 @@ https://github.com/c-onyiborCSC101/portfolio-website
 - ✅ Original design
 - ✅ Clean code structure
 
-## Project Structure
