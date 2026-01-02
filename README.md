@@ -5,7 +5,7 @@
 **Course:** Web Development / AI Engineering  
 
 ## Live URL
-https://portfolio-website-2026-nine.vercel.app/#projects
+https://portfolio-website-jade-seven-46.vercel.app
 
 ## GitHub Repository
 https://github.com/c-onyiborCSC101/portfolio-website
